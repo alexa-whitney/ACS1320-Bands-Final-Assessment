@@ -1,0 +1,31 @@
+@import url('https://fonts.cdnfonts.com/css/heavy-metal-blight');
+
+.band-header {
+    background-color: black;
+    color: rgb(11, 249, 43);
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .band-header h1 {
+    font-family: 'Heavy Metal Blight', sans-serif;                               
+    font-size: 4rem;
+    margin: 0;
+    flex: 1 1 100%;
+  }
+
+  .band-header img {
+    justify-content: center;
+  }
+
+  
+  .band-header h2 {
+    font-size: 2rem;
+    margin: 0;
+    flex: 1 1 100%;
+    text-align: center;
+  }
+  
