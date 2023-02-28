@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ACS1320-Bands-Final-Assessment/static/css/main.3af94d4b.css",
-    "main.js": "/ACS1320-Bands-Final-Assessment/static/js/main.d3be7b8f.js",
+    "main.js": "/ACS1320-Bands-Final-Assessment/static/js/main.673ba390.js",
     "static/js/787.8bd36900.chunk.js": "/ACS1320-Bands-Final-Assessment/static/js/787.8bd36900.chunk.js",
     "index.html": "/ACS1320-Bands-Final-Assessment/index.html",
     "main.3af94d4b.css.map": "/ACS1320-Bands-Final-Assessment/static/css/main.3af94d4b.css.map",
-    "main.d3be7b8f.js.map": "/ACS1320-Bands-Final-Assessment/static/js/main.d3be7b8f.js.map",
+    "main.673ba390.js.map": "/ACS1320-Bands-Final-Assessment/static/js/main.673ba390.js.map",
     "787.8bd36900.chunk.js.map": "/ACS1320-Bands-Final-Assessment/static/js/787.8bd36900.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3af94d4b.css",
-    "static/js/main.d3be7b8f.js"
+    "static/js/main.673ba390.js"
   ]
 }
