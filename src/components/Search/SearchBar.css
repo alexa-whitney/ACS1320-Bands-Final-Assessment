@@ -1,0 +1,29 @@
+.search-bar {
+    background-color: black;
+    color: rgb(11, 249, 43);
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+  }
+  
+  label {
+    margin-right: 1rem;
+  }
+  
+  input {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: none;
+    background-color: rgb(26, 26, 26);
+    color: white;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  input:focus {
+    box-shadow: 0 0 0 2px rgb(11, 249, 43);
+  }
+  

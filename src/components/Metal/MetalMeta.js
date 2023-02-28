@@ -1,6 +1,7 @@
 import data from '../../metal.js'
 import React from 'react';
 import './MetalMeta.css';
+import SearchBar from '../Search/SearchBar.js';
 
 function MetalMeta() {
     const numBands = data.length;
