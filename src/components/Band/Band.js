@@ -10,9 +10,9 @@ function Band(props) {
     return (
         <div className="band">
             <h2>{band_name}</h2>
-            <p>Formed: {formed}</p>
+            <p><strong>Formed:</strong> {formed}</p>
             <p>{origin}</p>
-            <p>Fans: {fans}</p>
+            <p><strong>Fans:</strong> {fans}</p>
             <ul>{styleList}</ul>
             {split === '-' ? <Like /> : <p>Split: {split}</p>}
         </div>
