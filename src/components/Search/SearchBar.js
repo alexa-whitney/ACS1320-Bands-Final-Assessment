@@ -10,7 +10,6 @@ function SearchBar() {
         const inName = obj.band_name.toLowerCase().includes(query.toLowerCase())
         return inName
     }).map((obj) => {
-        const { band_name } = obj
         return (
             <div className="band">
                 <Band
